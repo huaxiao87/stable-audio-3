@@ -670,3 +670,5 @@ SAME 自身另有独立训练（频谱重建、对抗、diffusion alignment、�
 ---
 
 *文档基于 `stable-audio-lab` 源码与技术报告梳理，主推理路径为 PyTorch `StableAudioModel.generate()`。*
+
+若要按阶段系统学习训练与推理架构，参见 [learning-roadmap.md](./learning-roadmap.md)。
