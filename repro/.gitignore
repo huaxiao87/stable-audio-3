@@ -1,0 +1,9 @@
+# 实验产物（模型权重由 HF 缓存，不放在此目录）
+outputs/
+data/
+wandb/
+*.wav
+*.ckpt
+*.safetensors
+.ipynb_checkpoints/
+__pycache__/
